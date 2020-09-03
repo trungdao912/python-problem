@@ -6,4 +6,4 @@ def check_exist():
     for number in a:
         if number not in b or number not in c:
             return False
-        return True
+    return True
